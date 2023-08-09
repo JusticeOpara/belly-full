@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg-primary:#13252f;
+  --color-bg-secondary:#a1ff69;
+  --color-text-primary: #acb2b2;
+  --color-text-secondary: #fff;
+  --font-name: "Montserrat", sans-serif;
+  --card-bg: #152833;
+
+}
